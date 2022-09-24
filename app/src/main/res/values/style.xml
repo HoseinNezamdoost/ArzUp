@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ArzUpBottomNavigationTheme" parent="Widget.MaterialComponents.BottomNavigationView">
+        <item name="android:background">@color/black_500</item>
+        <item name="itemTextAppearanceActive">@style/ArzUpItemTextAppearanceActive</item>
+        <item name="itemIconTint">@color/item_bottom_navigation</item>
+        <item name="itemTextColor">@color/item_bottom_navigation</item>
+    </style>
+    
+    <style name="ArzUpItemTextAppearanceActive">
+        <item name="fontFamily">@font/yekan_bold</item>
+        <item name="android:fontFamily">@font/yekan_bold</item>
+    </style>
+    
+</resources>
