@@ -10,4 +10,7 @@
     <string name="market_cap">ارزش بازار:</string>
     <string name="saved">ذخیره شده ها</string>
     <string name="crypto_currency">ارز دیجیتال</string>
+    <string name="symbol">نماد</string>
+    <string name="name">نام</string>
+    <string name="percent_change">در صد تغییر</string>
 </resources>

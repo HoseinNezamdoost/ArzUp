@@ -23,13 +23,13 @@ class ArzUpTabLayout(context: Context, attr: AttributeSet)
 
             cryptoCurrency.setOnClickListener {
                 select.animate().x(0f).setDuration(100)
-                cryptoCurrency.setTextColor(Color.WHITE)
+                cryptoCurrency.setTextColor(context.getColor(R.color.black_900))
                 saved.setTextColor(def)
                 onClickItemTabLayout?.onSaved()
             }
             saved.setOnClickListener {
                 cryptoCurrency.setTextColor(def)
-                saved.setTextColor(Color.WHITE)
+                saved.setTextColor(context.getColor(R.color.black_900))
                 val size = saved.width
                 select.animate().x(size.toFloat()).setDuration(100)
                 onClickItemTabLayout?.onCryptoCurrency()

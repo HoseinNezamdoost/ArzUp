@@ -3,18 +3,24 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android Project New Elecomco/project/ArzUp/app/src/main/res/drawable/background_asc.xml" value="0.2705" />
         <entry key="..\:/Android Project New Elecomco/project/ArzUp/app/src/main/res/drawable/background_bottom_navigation.xml" value="0.3045" />
         <entry key="..\:/Android Project New Elecomco/project/ArzUp/app/src/main/res/drawable/background_bottom_raduis.xml" value="0.235" />
         <entry key="..\:/Android Project New Elecomco/project/ArzUp/app/src/main/res/drawable/background_bottom_raidius.xml" value="0.292" />
+        <entry key="..\:/Android Project New Elecomco/project/ArzUp/app/src/main/res/drawable/background_desc.xml" value="0.2705" />
         <entry key="..\:/Android Project New Elecomco/project/ArzUp/app/src/main/res/drawable/background_select.xml" value="0.3535" />
         <entry key="..\:/Android Project New Elecomco/project/ArzUp/app/src/main/res/drawable/background_tabs.xml" value="0.3555" />
+        <entry key="..\:/Android Project New Elecomco/project/ArzUp/app/src/main/res/drawable/ic_arrow_down.xml" value="0.2705" />
+        <entry key="..\:/Android Project New Elecomco/project/ArzUp/app/src/main/res/drawable/ic_arrow_up.xml" value="0.2705" />
         <entry key="..\:/Android Project New Elecomco/project/ArzUp/app/src/main/res/drawable/ic_info.xml" value="0.235" />
         <entry key="..\:/Android Project New Elecomco/project/ArzUp/app/src/main/res/drawable/ic_search.xml" value="0.235" />
         <entry key="..\:/Android Project New Elecomco/project/ArzUp/app/src/main/res/drawable/test.xml" value="0.2705" />
         <entry key="..\:/Android Project New Elecomco/project/ArzUp/app/src/main/res/layout/activity_main.xml" value="0.3541666666666667" />
+        <entry key="..\:/Android Project New Elecomco/project/ArzUp/app/src/main/res/layout/background_asc.xml" value="0.3541666666666667" />
         <entry key="..\:/Android Project New Elecomco/project/ArzUp/app/src/main/res/layout/fragment_chart.xml" value="0.3487179487179487" />
         <entry key="..\:/Android Project New Elecomco/project/ArzUp/app/src/main/res/layout/fragment_converter.xml" value="0.3541666666666667" />
-        <entry key="..\:/Android Project New Elecomco/project/ArzUp/app/src/main/res/layout/fragment_home.xml" value="0.5" />
+        <entry key="..\:/Android Project New Elecomco/project/ArzUp/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/Android Project New Elecomco/project/ArzUp/app/src/main/res/layout/item_coin_category.xml" value="0.5" />
         <entry key="..\:/Android Project New Elecomco/project/ArzUp/app/src/main/res/layout/item_tab_layout.xml" value="0.3541666666666667" />
         <entry key="..\:/Android Project New Elecomco/project/ArzUp/app/src/main/res/menu/navigation_appbar_bottom.xml" value="0.3541666666666667" />
       </map>
