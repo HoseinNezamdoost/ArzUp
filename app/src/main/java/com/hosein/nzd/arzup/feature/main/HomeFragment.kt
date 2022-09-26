@@ -8,6 +8,7 @@ import android.view.View
 import android.view.ViewGroup
 import com.hosein.nzd.arzup.R
 import com.hosein.nzd.arzup.common.TAG
+import kotlinx.android.synthetic.main.fragment_home.*
 import org.koin.androidx.viewmodel.ext.android.viewModel
 
 class HomeFragment : Fragment() {
@@ -23,9 +24,15 @@ class HomeFragment : Fragment() {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
+
         viewModel.categoryLiveData.observe(viewLifecycleOwner){
-            Log.i(TAG, "onViewCreated: ${it.data.coins[0].name}")
+            Log.i(TAG, "onViewCreated: ${it.data[0].id}")
         }
+
+        viewModel.errorLiveData.observe(viewLifecycleOwner){
+            Log.e(TAG, "onViewCreated: $it" )
+        }
+
     }
 
 }

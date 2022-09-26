@@ -1,6 +1,6 @@
 package com.hosein.nzd.arzup.data.dataClass.category
 
-data class USDT(
+data class USD(
     var fully_diluted_market_cap: Double,
     var last_updated: String,
     var market_cap: Double,

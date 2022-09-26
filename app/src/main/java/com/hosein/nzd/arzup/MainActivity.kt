@@ -1,6 +1,9 @@
 package com.hosein.nzd.arzup
 
+import android.graphics.Color
 import android.os.Bundle
+import android.view.View
+import androidx.core.view.WindowCompat
 import androidx.lifecycle.LiveData
 import androidx.navigation.NavController
 import androidx.navigation.findNavController

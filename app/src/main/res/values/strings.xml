@@ -5,4 +5,9 @@
     <string name="chart">نمودار</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="volume_24h">حجم(۲۴ ساعت):</string>
+    <string name="volume_change_24h">تغییر حجم(۲۴ ساعت):</string>
+    <string name="market_cap">ارزش بازار:</string>
+    <string name="saved">ذخیره شده ها</string>
+    <string name="crypto_currency">ارز دیجیتال</string>
 </resources>
